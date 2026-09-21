@@ -1,0 +1,9 @@
+# ignore binaries
+smartnic/offload_ssl/build/ssloff
+smartnic/offload_ssl/build/ssloff-shared
+smartnic/bluefield_pka_benchmark/benchmark_example/pka_benchmark
+
+host/custom_server/build/ssl_server
+
+# ignore dummyfiles
+host/custom_server/www/

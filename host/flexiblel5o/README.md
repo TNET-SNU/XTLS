@@ -1,0 +1,1 @@
+echo Y | sudo tee /sys/module/tls/parameters/tx_sw_first
